@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://weightlosschesapeake.com/sitemap.xml
